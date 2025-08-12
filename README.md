@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/juli-singh-871954243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.instagram.com/juliii_.118/" height="30" width="40" /></a> &nbsp;
-<a href="https://www.instagram.com/juliii_.118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/juliii_.118/" height="30" width="40" /></a></br></br>
+<a href="https://www.instagram.com/juliii_.118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/juliii_.118/" height="30" width="40" /></a>&nbsp;
 <a href="https://www.hackerrank.com/profile/julisingh1118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/julisingh1118" height="30" width="40" /></a>&nbsp;
-<a href="https://leetcode.com/u/julisingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.hackerrank.com/profile/julisingh1118" height="30" width="40" /></a></br></br>
+<a href="https://leetcode.com/u/julisingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.hackerrank.com/profile/julisingh1118" height="30" width="40" /></a>&nbsp;
 <a href="https://www.geeksforgeeks.org/user/julisingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/julisingh" height="30" width="40" /></a>&nbsp;
 </p>
 

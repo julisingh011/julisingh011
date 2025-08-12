@@ -1,4 +1,4 @@
-![logo](https://github.com/julisingh011/julisingh011/blob/main/linkedin.jpg)
+![logo](img.jpg)
 <h1 align="center">Hi 👋, I'm Juli singh</h1>
 <h3 align="left">A Passionate Developer from India</h3>
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julisingh011&label=Profile%20views&color=0e75b6&style=flat" alt="julisingh011" /> </p>
 
-📫Mail to **julisingh1118@gmail.com**
+📫Mail to: **julisingh1118@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
